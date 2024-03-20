@@ -1,4 +1,4 @@
-# Scraping_Cleaning_EDA_Surfing_Videos
+# Scraping Cleaning EDA Surfing Videos
 In this project, I scraped data from several YouTube channels that I follow on Surfing and did some high level analysis on the data. This is part of an overall project to discern what makes a YouTube channel successful.
 
 #### Methods and Tools Used ####
