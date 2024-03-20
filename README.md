@@ -8,7 +8,6 @@ In this project, I scraped data from several YouTube channels that I follow on S
 * Data visualization
 
 # Methodology
-
 <details>
 <summary> Step 0: Set up </summary>
       <br>
@@ -46,4 +45,7 @@ In this project, I scraped data from several YouTube channels that I follow on S
 # Final Results
 Nathan Florence's YouTube channel's performance is unique. Although his channel is one of the youngest, he has one of the most viewed, liked and commented on channels. Notably, he has the most viewed video in this sample. Notably, unlike most of the other channels, his posting behavior is remarkably consistent. 
 Key takeaway: Consistency is key.
+
+<br>
+<br>
 <img width="1274" alt="Time Series Data" src="https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/2caa6cf1c2d43bb3196158b45f50a7f871cf979f/Report_Images/Posting_Patterns_OverTime.jpeg">
